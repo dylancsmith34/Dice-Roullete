@@ -1,4 +1,4 @@
-# DiceRoulleteGame
+# Dice Roullete Game
 This is a simple dice roll game against an enemy
 
 Who ever gets the highest dice roll wins the round, if the user wins the most rounds out of 10 turns they win, if not the enemy wins
